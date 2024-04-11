@@ -50,4 +50,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Author
 - **Author:** Qalab Hassnain Agha
-- **GitHub:** [Your GitHub Profile](https://github.com/qalab-e-hassnain)
+- **GitHub:** [GitHub](https://github.com/qalab-e-hassnain)
+- **LinkedIn** [LinkedIn](www.linkedin.com/in/qalabhassnainagha/)
